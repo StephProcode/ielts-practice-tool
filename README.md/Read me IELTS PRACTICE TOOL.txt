@@ -1,0 +1,26 @@
+# IELTS PRACTICE TOOL
+
+Fan-made, non-commercial personal study tool based on the IELTS Advantage methodology.
+
+This project helps IELTS learners explore:
+- Short tips by skill
+- Practice resources
+- Videos
+- Small interactive games
+
+It is organized by skill and target band to make study sessions easier and more focused.
+
+## Features
+- Skill filter: Speaking, Writing, Reading, Listening
+- Band filter
+- Tips section
+- Practice resources section
+- Videos section
+- Games section
+- Listening resources redirected to official British Council practice pages
+
+## Disclaimer
+This is an independent fan project for personal and educational use only. It is not affiliated with, endorsed by, sponsored by, or intended to replace IELTS Advantage, Christopher Pell, or their team. All rights belong to their respective owners.
+
+## Project link
+Add your deployed link here once available.
